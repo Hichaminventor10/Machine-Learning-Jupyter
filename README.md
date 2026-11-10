@@ -117,7 +117,7 @@ The fish notebook's prose refers to `fish.csv`, but the repository contains
 1. Clone the repository and enter its directory:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Hichaminventor10/Machine-Learning-Jupyter.git
    cd Machine-Learning-Labs
    ```
 
@@ -178,15 +178,7 @@ This repository supports practice with:
 - Visualizing class distributions, fitted models, and decision regions
 - Recognizing incomplete experiments and debugging notebook execution issues
 
-## Current limitations
 
-- Several notebooks retain French filenames and exercise text.
-- CSV paths are not consistently relative to the repository root.
-- The logistic-regression model and evaluation cells are unfinished.
-- The Ridge and SGD regularization exercises are unfinished.
-- `reg_linear.ipynb` is empty and invalid as a notebook.
-- The kNN notebook has saved errors in an early draft cell and does not
-  consistently report a calculated classification accuracy.
 
 ## Future learning roadmap
 
